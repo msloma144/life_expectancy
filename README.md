@@ -16,3 +16,5 @@ Michael Sloma
 ## Data Sources
 * [U.S. Small-area Life Expectancy Estimates Project (USALEEP)](https://www.cdc.gov/nchs/nvss/usaleep/usaleep.html "USALEEP")
 * [US Census Bureau](https://www.census.gov/ "US Census Bureau")
+
+**Note:** sometimes IPython notebooks on GitHub don't work as expected, but you can always view them using [nbviewer](https://nbviewer.jupyter.org/).
